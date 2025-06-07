@@ -64,4 +64,4 @@ Use the menu system to browse albums, manage your cart, or add new albums
 
 Place orders by confirming your delivery address
 
-# This project demonstrates core C++ concepts including file handling, data structures, control flow, and basic UI design in a console environment.
+* This project demonstrates core C++ concepts including file handling, data structures, control flow, and basic UI design in a console environment.*
