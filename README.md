@@ -23,39 +23,39 @@ User Authentication: Secure login with username and password verification
 
 # Order Processing:
 
-Collect delivery address information
+1-Collect delivery address information
 
-Confirm orders with customer and order IDs
+2-Confirm orders with customer and order IDs
 
-Data Persistence:
+# Data Persistence:
 
-Reads album data from a text file on startup
+1-Reads album data from a text file on startup
 
-Writes updates back to the file
+2-Writes updates back to the file
 
-Supports up to 100 albums in inventory
+3-Supports up to 100 albums in inventory
 
-Key Features
-Structured Data Handling: Uses structs for albums, addresses, and orders
+# Key Features
+1-Structured Data Handling: Uses structs for albums, addresses, and orders
 
-Genre Enumeration: Supports five music genres (Rock, Pop, Progressive, HipHop, Metal)
+2-Genre Enumeration: Supports five music genres (Rock, Pop, Progressive, HipHop, Metal)
 
-Text Formatting: Properly formats output with setw() for alignment
+3-Text Formatting: Properly formats output with setw() for alignment
 
-Input Validation: Includes basic input checking and error handling
+4-Input Validation: Includes basic input checking and error handling
 
-Case Handling: Automatically capitalizes names and genres for consistency
+5-Case Handling: Automatically capitalizes names and genres for consistency
 
-Technical Details
-File I/O operations for persistent storage
+# Technical Details
+1-File I/O operations for persistent storage
 
-Array-based data structures for album storage
+2-Array-based data structures for album storage
 
-Modular design with separate functions for each feature
+3-Modular design with separate functions for each feature
 
-Menu-driven interface with clear navigation
+4-Menu-driven interface with clear navigation
 
-Usage
+# Usage
 Compile and run the program
 
 Login with default credentials (user/password123)
@@ -64,4 +64,4 @@ Use the menu system to browse albums, manage your cart, or add new albums
 
 Place orders by confirming your delivery address
 
-This project demonstrates core C++ concepts including file handling, data structures, control flow, and basic UI design in a console environment.
+# This project demonstrates core C++ concepts including file handling, data structures, control flow, and basic UI design in a console environment.
