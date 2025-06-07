@@ -1,26 +1,27 @@
-Music Store System - Console Application
-Description
+# Music Store System - Console Application
+
+# Description
 This C++ console application is a music store management system that allows users to browse, purchase, and manage music albums. The system features:
 
 User Authentication: Secure login with username and password verification
 
-Album Management:
+# Album Management:
 
-Browse albums by name, artist, or genre
+1-Browse albums by name, artist, or genre
 
-Add new albums to the store inventory
+2-Add new albums to the store inventory
 
-View detailed album information (name, artist, genre, price)
+3-View detailed album information (name, artist, genre, price)
 
-Shopping Cart Functionality:
+# Shopping Cart Functionality:
 
-Add/remove albums from cart
+1-Add/remove albums from cart
 
-View current cart contents
+2-View current cart contents
 
-Calculate order total
+3-Calculate order total
 
-Order Processing:
+# Order Processing:
 
 Collect delivery address information
 
