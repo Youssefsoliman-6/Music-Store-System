@@ -1,0 +1,55 @@
+Thriller                                 Michael Jackson         Pop          150
+The Dark Side of the Moon                Pink Floyd              Progressive  120
+Abbey Road                               The Beatles             Rock         110
+Back in Black                            AC/DC                   Rock         130
+Hotel California                         Eagles                  Rock         125
+Rumours                                  Fleetwood Mac           Rock         115
+A Night at the Opera                     Queen                   Rock         140
+Led Zeppelin IV                          Led Zeppelin            Rock         135
+Sgt. Pepper's Lonely Hearts Club Band    The Beatles             Rock         105
+The Wall                                 Pink Floyd              Progressive  145
+Purple Rain                              Prince                  Pop          155
+Born to Run                              Bruce Springsteen       Rock         112
+The Joshua Tree                          U2                      Rock         124
+The Chronic                              Dr. Dre                 Hip Hop      138
+The White Album                          The Beatles             Rock         107
+Dark Side of the Moon                    Lil Wayne               Hip Hop      142
+Born in the U.S.A.                       Bruce Springsteen       Rock         115
+Who's Next                               The Who                 Rock         127
+Achtung Baby                             U2                      Rock         137
+Sgt. Pepper's Lonely Hearts Club Band    The Beatles             Rock         102
+Born to Die                              Lana Del Rey            Pop          125
+Back in Black                            Backstreet Boys         Pop          119
+Abbey Road                               The Beatles             Rock         108
+Let It Be                                The Beatles             Rock         105
+Tapestry                                 Carole King             Pop          117
+The Doors                                The Doors               Rock         123
+The Velvet Underground & Nico            The Velvet Underground  Rock         121
+Paranoid                                 Black Sabbath           Metal        136
+Rubber Soul                              The Beatles             Rock         111
+The Marshall Mathers LP                  Eminem                  Hip Hop      139
+American Beauty                          Grateful Dead           Rock         114
+The Blueprint                            Jay-Z                   Hip Hop      134
+Goodbye Yellow Brick Road                Elton John              Pop          150
+Led Zeppelin II                          Led Zeppelin            Rock         131
+21                                       Adele                   Pop          126
+Metallica                                Metallica               Metal        122
+Purple Rain                              Prince                  Pop          104
+The Queen Is Dead                        The Smiths              Progressive  128
+The Doors                                The Doors               Rock         103
+Let It Bleed                             The Rolling Stones      Rock         110
+The College Dropout                      Kanye West              Hip Hop      116
+Licensed to Ill                          Beastie Boys            Hip Hop      138
+Led Zeppelin III                         Led Zeppelin            Rock         108
+Sticky Fingers                           The Rolling Stones      Rock         119
+Every Picture Tells a Story              Rod Stewart             Rock         107
+1989                                     Taylor Swift            Pop          125
+A Hard Day's Night                       The Beatles             Rock         112
+Beggars Banquet                          The Rolling Stones      Rock         131
+Greatest Hits                            Elton John              Pop          124
+The Doors                                The Doors               Rock         109
+Ready to Die                             The Notorious B.I.G.    Hip Hop      137
+Kick                                     INXS                    Rock         116
+The Velvet Underground                   The Velvet Underground  Rock         142
+Illmatic                                 Nas                     Hip Hop      146
+My Beautiful Dark Twisted Fantasy        Kanye West              Hip Hop      129
